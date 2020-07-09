@@ -1,0 +1,11 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2015/11/24/10/54/space-1059761__340.jpg");
+    margin: 0;
+    padding: 0px;
+    background-size:contain ;
+    background-attachment: fixed;
+}
+.fond{
+    justify-content: center;
+
+}

@@ -1,0 +1,70 @@
+.col-4 {
+    text-align: left justify;
+
+
+}
+.jumb{
+    background:url("https://cdn.pixabay.com/photo/2015/10/24/12/30/musee-des-confluances-1004423_960_720.jpg") center center; 
+    background-size: cover;
+    height: 50em;
+    
+    
+}
+
+.réseaux{
+    text-align: initial;
+    background-color: rgb(240, 39, 39);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-decoration-color: white;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 50%;
+    background-color:;
+    color: white;
+    text-align: center;
+ }
+ 
+.carre{
+    color: rgb(42, 95, 175);
+    border:double;
+    text-align: center;
+    border-top: none;
+    border-right: none;
+    border-left:none ;
+    font-size: 100px;
+    margin-top: 200px;
+}
+ 
+
+.section{
+    justify-content: center;
+    height: 50em;
+   
+}
+
+
+/*
+.image{
+    background: url(https://cdn.pixabay.com/photo/2015/10/24/12/30/musee-des-confluances-1004423_960_720.jpg);
+    height: 700px;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+*/
+.nav-item{
+    text-align: left;
+}
+.iconify{
+    background: url('https://api.iconify.design/ic:round-search.svg') no-repeat center center / contain;
+}
+
+.bouton2{
+    background-color: ;
+}

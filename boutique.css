@@ -1,0 +1,20 @@
+.block-article{
+    background-color: grey;  
+}
+
+li{
+    list-style: none;
+    display: inline;
+    
+}
+.img-fluid{
+    height: 200px;
+    width: 200em;  
+}
+    
+section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
